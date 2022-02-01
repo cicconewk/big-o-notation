@@ -1,4 +1,4 @@
-#Big Os
+# Big Os
 **[Check out the original source at ZeroToMastery](https://zerotomastery.io/cheatsheets/big-o-cheat-sheet/ "original source")**
 
 **O(1)** Constant – no loops.
@@ -12,13 +12,13 @@
 **Iterating through half a collection is still O(n)**
 **Two separate collections: O(a * b)**
 
-###What Can Cause Time in a Function?
+### What Can Cause Time in a Function?
 Operations (**+**, **-**, *****, **/**)
 Comparisons (**<**, **>**, **==**)
 Looping (**for**, **while**)
 Outside Function call (**function()**)
 
-###Rule Book
+### Rule Book
 **Rule 1:** Always worst Case
 **Rule 2:** Remove Constants
 **Rule 3:**
@@ -29,7 +29,7 @@ Outside Function call (**function()**)
 
 **Rule 4:** Drop Non-dominant terms
 
-###What Causes Space Complexity?
+### What Causes Space Complexity?
 
 -	Variables
 -	Data Structures
